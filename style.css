@@ -1,0 +1,90 @@
+ body{
+ 	background-color: rgb(209, 199, 199);
+	color: rgb(22, 22, 22);	
+ }  
+
+
+
+a{
+	color: rgb(7, 7, 7);
+	text-decoration: none;
+	
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+
+.sabir{
+	width: 300px;
+	border-radius: 15px;
+	box-shadow:12px 12px 2px 1px rgba(105, 4, 246, 0.483);
+	;
+}
+
+.sabir1{
+	width: 300px;
+	border-radius:20px;
+	box-shadow: 3px 3px red, -1em 0 .4em rgb(126, 126, 91);
+}
+
+.sabir3{
+	width: 750px;
+	border-radius:10px;
+	box-shadow: 3px 3px rgb(90, 4, 248), -1em 0 .4em rgb(126, 126, 91);
+	padding: 2px;
+}
+
+.info {
+	color: bisque;
+	margin: 0;
+	font-size: italic;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+
+
+/* box model */
+.contener{
+	max-width: 750px;
+	margin: auto;
+}
+
+
+
+.bg-yellow{
+	background: #FFFF00;
+}
+
+.bg-green{
+	background: #12772f;
+}
+
+.bg-red{
+	background: #FF0000;
+}
+
+
+
+
+.card {
+	padding: 15px;
+	margin-bottom: 20px;
+	border-radius:20px;
+	font-size: 20px;
+	border: 10px; 
+}
+
+
+
+
+
+.div{
+	background: bisque;
+}
+
+
